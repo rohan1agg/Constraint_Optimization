@@ -1,0 +1,73 @@
+Initial pt.		0.932	3.074	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 353913
+	Function evaluations/Iteration = 3539
+1.60804 3.58582 	Min. value of fn = 0.00588524
+
+
+Initial pt.		9.9	9.9	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 331000
+	Function evaluations/Iteration = 3310
+1.71274 3.93347 	Min. value of fn = 0.013171
+
+
+Initial pt.		12	20	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 428784
+	Function evaluations/Iteration = 4287
+1.60553 3.57773 	Min. value of fn = 0.00510095
+
+
+Initial pt.		5	5	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 216044
+	Function evaluations/Iteration = 2160
+1.67252 3.79733 	Min. value of fn = 0.0257939
+
+
+Initial pt.		4	7	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 296608
+	Function evaluations/Iteration = 2966
+1.71602 3.94474 	Min. value of fn = 0.0111042
+
+
+Initial pt.		4	9	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 411130
+	Function evaluations/Iteration = 4111
+1.6897 3.8551 	Min. value of fn = 0.0236784
+
+
+Initial pt.		8	8	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 348331
+	Function evaluations/Iteration = 3483
+1.00351 3.94077 	Min. value of fn = -7.79737e-07
+
+
+Initial pt.		1	9.9	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 299777
+	Function evaluations/Iteration = 2997
+1.70872 3.91974 	Min. value of fn = 0.0155376
+
+
+Initial pt.		9.9	0.1	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 317818
+	Function evaluations/Iteration = 3178
+1.71002 3.92417 	Min. value of fn = 0.0147942
+
+
+Initial pt.		0.001	0.001	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 320992
+	Function evaluations/Iteration = 3209
+1.60008 3.56026 	Min. value of fn = 0.00355823
+
+
+Average Bracket Penalty Itr = 100
+Average function eval       = 332439
+Average final minima obtained       = 0.0118623

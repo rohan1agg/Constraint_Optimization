@@ -1,0 +1,108 @@
+Initial pt.		1	1	1	1	1	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 76877
+	Function evaluations/Iteration = 768
+-2.25796 2.19059 0.104876 0.214355 0.214355 	Min. value of fn = 0.976447
+
+
+Initial pt.		0	0.5	0	-1	1	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 3919863
+	Function evaluations/Iteration = 39198
+-1 -0.00283316 0.000574625 -3 6.64301e-07 	Min. value of fn = 1
+
+
+Initial pt.		0.5	0.5	0.5	0.5	0.5	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 3009722
+	Function evaluations/Iteration = 30097
+-1 -0.000475301 -0.000215761 7.44943e-08 -3 	Min. value of fn = 1
+
+
+Initial pt.		-1	0.5	0.3	-1	-1	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 94377
+	Function evaluations/Iteration = 943
+2.20166 -2.26839 -0.00776439 0.0593517 0.05935 	Min. value of fn = 1.00014
+
+
+Initial pt.		1.2	-1	0.3	3.1	-3.1	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 178619
+	Function evaluations/Iteration = 1786
+2.20248 -2.26916 2.07939e-05 0.00333067 -0.00283333 	Min. value of fn = 1
+
+
+Initial pt.		-1.5	1.5	-1.5	-1.5	-1.5	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 3944224
+	Function evaluations/Iteration = 39442
+-2.50062e-05 -1 0.193538 -0.0129296 2.99372 	Min. value of fn = 1
+
+
+Initial pt.		0	0	0	0	0	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 31416
+	Function evaluations/Iteration = 314
+2.20248 -2.26916 0 0 0 	Min. value of fn = 1
+
+
+Initial pt.		-1.5	2	-2.1	-1.2	1	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 4426323
+	Function evaluations/Iteration = 44263
+1.12186e-07 -1 0.043719 -2.99968 0.00291491 	Min. value of fn = 1
+
+
+Initial pt.		0	0	0	1	1	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 4614016
+	Function evaluations/Iteration = 46140
+-1 -1.2065e-06 2.05455e-06 -3 6.50343e-09 	Min. value of fn = 1
+
+
+Initial pt.		-2.2	-2.2	-3.2	-3.2	-3.2	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 53264
+	Function evaluations/Iteration = 532
+-2.2687 2.20199 0.00476685 0.0458183 0.0458183 	Min. value of fn = 0.99995
+
+
+Initial pt.		-1	-1	-1	-1	-1	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 63497
+	Function evaluations/Iteration = 634
+2.20247 -2.26914 -0.000150163 -0.00846415 -0.00805142 	Min. value of fn = 1
+
+
+Initial pt.		2	2	3	3	3	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 3447645
+	Function evaluations/Iteration = 34476
+-1.01207 0.332151 1.55533 2.53864 0.0406992 	Min. value of fn = 0.947413
+
+
+Initial pt.		-1	-1	-1	-1	3	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 4058553
+	Function evaluations/Iteration = 40585
+-0.794855 -0.792543 -0.109043 -0.00585181 -2.95435 	Min. value of fn = 0.998813
+
+
+Initial pt.		1.5	1.5	1.5	1.5	1.5	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 4255044
+	Function evaluations/Iteration = 42550
+-0.793306 -0.794094 -0.504539 2.91286 0.0275087 	Min. value of fn = 0.974853
+
+
+Initial pt.		-1.5	0.5	0.5	0.5	0.5	
+	Penalty Method Iterations      = 100
+	Function evaluations           = 3030382
+	Function evaluations/Iteration = 30303
+-1 7.14064e-07 2.44411e-06 4.96325e-09 3 	Min. value of fn = 1
+
+
+Average Bracket Penalty Itr = 100
+Average function eval       = 2346921
+Average final minima obtained       = 0.993174
