@@ -60,9 +60,9 @@ int main()
 	// cout<<std::setprecision(6);
 	#ifndef ONLINE_JUDGE
 	    // for getting input from input.talphat
-	    freopen("./Problems/input5.txt", "r", stdin);
+	    freopen("./Test_Cases/input5.txt", "r", stdin);
 	    // for writing output to output.talphat
-	    freopen("./Problems/outputC5.csv", "w", stdout);
+	    freopen("./Test_Cases/outputC5.csv", "w", stdout);
 	#endif
 
 	int q,P;
